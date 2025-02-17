@@ -51,4 +51,9 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>  
+   <url>
+      <loc>https://teuliere.github.io/complement3/permis_construire_usine_dolomie/usine_dolomie.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>  
 </urlset>
