@@ -90,5 +90,10 @@
       <loc>https://teuliere.github.io/complement3/chemin_planeses/chemin_planeses.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-   </url>  
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/complement3/archives-Haute-Garonne/archive-Haute-Garonne.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset>
