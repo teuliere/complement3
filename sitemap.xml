@@ -92,6 +92,16 @@
       <priority>0.8</priority>
    </url>
    <url>
+      <loc>https://teuliere.github.io/complement3/chemin_fanges_camperie/chemin_fanges_camperie.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://teuliere.github.io/complement3/pont_ane/pont_ane.html/pont_ane/pont_ane.html.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
       <loc>https://teuliere.github.io/complement3/archives-Haute-Garonne/archive-Haute-Garonne.html</loc>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
