@@ -121,4 +121,9 @@
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
+   <url>
+      <loc>https://teuliere.github.io/complement3/budget_taxe_ventes_assurances/budget_taxe_ventes_assurances.html</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
 </urlset>
