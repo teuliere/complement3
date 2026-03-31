@@ -564,7 +564,7 @@ Escouloubre Carcannières [Carcanières] : établissement thermal Esparre / phot
 	Lieu
 	Escouloubre (Aude, France) / Aude (France ; département) / Aude (France ; cours d'eau)
 	https://archives.haute-garonne.fr/ark:/44805/vta0e9003e109a24492/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta0e9003e109a24492%2Fcanvas%2F0%2F1
-	224 Escouloubre - passerelle des établissements de Roquelaure - photographie Henri Jansou (1874-1966) - maison Labouche frères, entre 1900 et 1940.png
+	224 Escouloubre - passerelle des établissements de Roquelaure - photographie Henri Jansou (1874-1966) - maison Labouche frères, entre 1900 et 1940-recto.png
 	https://archives.haute-garonne.fr/ark:/44805/vta0e9003e109a24492/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta0e9003e109a24492%2Fcanvas%2F0%2F2
 	224 Escouloubre - passerelle des établissements de Roquelaure - photographie Henri Jansou (1874-1966) - maison Labouche frères, entre 1900 et 1940-verso.png
 	
@@ -656,7 +656,6 @@ Vallée de l'Aude. 225. Escouloubre : l'hôtel du Roquelaure / photographie Henr
 
 	Présentation du contenu
 	Verso : légende manuscrite ; tampon "H. Jansou, photographe, Maison Labouche frères, Toulouse".
-
 
 	Sujet
 	enfant / femme / hôtel de tourisme / équipement touristique / scène animée
@@ -1227,7 +1226,6 @@ Vallée de l'Aude. 222 bis. Escouloubre-les-Bains : établissement Sarda : café
 	Présentation du contenu
 	Titre barré : "Carcanières : établissement Bonnail". Voir aussi le tirage papier 26 Fi 11 TP 1297. Autre édition postérieure : voir 1 Num 47 82.
 
-
 	Sujet
 	village / voie communale / hôtel de tourisme / équipement touristique / thermoclimatisme / débit de boissons / fonds de commerce / commerce alimentaire / commerce / homme / femme / scène animée
 
@@ -1241,13 +1239,1635 @@ Vallée de l'Aude. 222 bis. Escouloubre-les-Bains : établissement Sarda : café
 	Aude (France ; département) / Aude, Vallée de l' (France) / Escouloubre (Aude, France) / Escouloubre-les-Bains (Escouloubre, Aude, France ; lieu-dit) / Aude, Haute vallée de l' (France) / Aude (France ; cours d'eau)	
 	https://archives.haute-garonne.fr/ark:/44805/vta574e10d4dd11ffbb/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta574e10d4dd11ffbb%2Fcanvas%2F0%2F1	
 	222 bis Escouloubre-les-Bains - établissement Sarda - café, maison des ménages - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta12e5758f3e1ff568/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta12e5758f3e1ff568%2Fcanvas%2F0%2F1
+	222 bis Escouloubre-les-Bains - établissement Sarda - café, maison des ménages - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto2.png
 	https://archives.haute-garonne.fr/ark:/44805/vta574e10d4dd11ffbb/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta574e10d4dd11ffbb%2Fcanvas%2F0%2F2
 	222 bis Escouloubre-les-Bains - établissement Sarda - café, maison des ménages - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-verso.png
 		
-	
-	
+La vallée de l'Aude. 222. Escouloubre : établissement Bonnail / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
 
-https://francearchives.gouv.fr/fr/search?q=escouloubre&es_escategory=archives&es_escategory=siteres&page=5
+	Cote
+	1 NUM 47 90
+
+	Intitulé
+	La vallée de l'Aude. 222. Escouloubre : établissement Bonnail / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1296. Autre édition (avec un titre différent) : voir 1 Num 47 91.
+
+
+	Sujet
+	hôtel de tourisme / thermoclimatisme / village / voie communale / équipement touristique
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)	
+	https://archives.haute-garonne.fr/ark:/44805/vtaacff47eab3680a55/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaacff47eab3680a55%2Fcanvas%2F0%2F1
+	222 Escouloubre établissement Bonnail photographie Henri Jansou (1874-1966) - phototypie Labouche frères, marque LF au verso entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaacff47eab3680a55/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaacff47eab3680a55%2Fcanvas%2F0%2F2
+	222 Escouloubre établissement Bonnail photographie Henri Jansou (1874-1966) - phototypie Labouche frères, marque LF au verso entre 1905 et 1925-verso.png
+	
+Vallée de l'Aude et environs. Vue panoramique prise du col du Moulin [des Moulis], près Escouloubre / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre
+
+	Cote
+	26 FI 11 TP 1492
+
+	Intitulé
+	Vallée de l'Aude et environs. Vue panoramique prise du col du Moulin [des Moulis], près Escouloubre / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9,5 x 15 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Il s'agit du col des Moulis situé sur la commune d'Escouloubre. Verso : légende manuscrite avec annotation "Cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse".
+
+
+	Sujet
+	col / massif / neige / paysage / sommet / vue générale
+
+	Lieu
+	Escouloubre (Aude, France) / Aude (France ; département)
+	https://archives.haute-garonne.fr/ark:/44805/vtac12a0612bd748083/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtac12a0612bd748083%2Fcanvas%2F0%2F1
+	Vue panoramique prise du col du Moulin (des Moulis), près Escouloubre - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910 - recto.png
+
+	https://archives.haute-garonne.fr/ark:/44805/vtac12a0612bd748083/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtac12a0612bd748083%2Fcanvas%2F0%2F2
+	Vue panoramique prise du col du Moulin (des Moulis), près Escouloubre - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910 - verso.png
+
+Vallée de l'Aude. 472. Haute vallée de l'Aude. Escouloubre : vue sur les établissements Sarda. La route de Carcanières. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale (1911/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Escouloubre
+
+	Cote
+	1 NUM 47 88
+
+	Intitulé
+	Vallée de l'Aude. 472. Haute vallée de l'Aude. Escouloubre : vue sur les établissements Sarda. La route de Carcanières. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 14 x 9 cm
+
+	Sujet
+	établissement thermal / thermoclimatisme / vue générale / vallée
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Aude (France ; département) / Escouloubre (Aude, France)
+    https://archives.haute-garonne.fr/ark:/44805/vta4aed47f6a7c5198e/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4aed47f6a7c5198e%2Fcanvas%2F0%2F1
+	472 Escouloubre - vue sur les établissements Sarda La route de Carcanières - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta4aed47f6a7c5198e/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4aed47f6a7c5198e%2Fcanvas%2F0%2F2
+	472 Escouloubre - vue sur les établissements Sarda La route de Carcanières - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-verso.png
+
+La vallée de l'Aude. 223. Escouloubre Carcanière [Carcanières] : l'Aude et la route, direction d'Usson / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 41
+
+	Intitulé
+	La vallée de l'Aude. 223. Escouloubre Carcanière [Carcanières] : l'Aude et la route, direction d'Usson / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1298.
+
+
+	Sujet
+	cours d'eau / fleuve / paysage / réseau routier / site / vallée
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta4f4bf79733371765/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4f4bf79733371765%2Fcanvas%2F0%2F1
+	223 Escouloubre Carcanière l'Aude et la route, direction d'Usson photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta4f4bf79733371765/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4f4bf79733371765%2Fcanvas%2F0%2F2
+	223 Escouloubre Carcanière l'Aude et la route, direction d'Usson photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+
+26. Gorges de l'Aude. Escouloubre et Carcanières / cliché A.Trantoul [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, [entre 1900 et 1904]. - Carte postale. - (Sites et monuments du Sud-Ouest - 4e série) (1900/1904)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Escouloubre
+
+	Cote
+	1 NUM 47 26
+
+	Intitulé
+	26. Gorges de l'Aude. Escouloubre et Carcanières / cliché A.Trantoul [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, [entre 1900 et 1904]. - Carte postale. - (Sites et monuments du Sud-Ouest - 4e série)
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 14 x 9 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Autres éditions : voir 26 Fi 11 193, 194, 1 Num 47 67, 68, 69.
+
+	Sujet
+	cours d'eau / fleuve / rocher / vallée / village / vue générale
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Gorges de l' (France) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta7e81c897ef915350/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta7e81c897ef915350%2Fcanvas%2F0%2F1
+	26 Escouloubre et Carcanières - photographie Amédée Trantoul (1837-1910) - Labouche frères, entre 1900 et 1904-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta9e96807a190b6371/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta9e96807a190b6371%2Fcanvas%2F0%2F1
+	26 Escouloubre et Carcanières - photographie Amédée Trantoul (1837-1910) - Labouche frères, entre 1900 et 1904-recto2.png
+	https://archives.haute-garonne.fr/ark:/44805/vta7e81c897ef915350/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta7e81c897ef915350%2Fcanvas%2F0%2F2
+	26 Escouloubre et Carcanières - photographie Amédée Trantoul (1837-1910) - Labouche frères, entre 1900 et 1904-verso.png
+
+La vallée de l'Aude. 26. Escouloubre et Carcanières : défilé de la route, vers Mont-Louis / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Escouloubre
+
+	Cote
+	1 NUM 47 86
+
+	Intitulé
+	La vallée de l'Aude. 26. Escouloubre et Carcanières : défilé de la route, vers Mont-Louis / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 14 x 9 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1198. Autre édition : voir 1 Num 47 85.
+
+
+	Sujet
+	massif / paysage / rocher / site / vallée / village / vue générale
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtad90747792b2b4213/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtad90747792b2b4213%2Fcanvas%2F0%2F1
+	26 Escouloubre et Carcanières - défilé de la route, vers Mont-Louis - photographie Henri Jansou (1874-1966)] - Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtad90747792b2b4213/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtad90747792b2b4213%2Fcanvas%2F0%2F2
+	26 Escouloubre et Carcanières - défilé de la route, vers Mont-Louis - photographie Henri Jansou (1874-1966)] - Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+
+Vallée de l'Aude. 25. Escouloubre et Carcanière [Carcanières], séparés par la rivière de l'Aude / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925], tampon de la poste de 1907. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Escouloubre
+
+	Cote
+	1 NUM 47 23
+
+	Intitulé
+	Vallée de l'Aude. 25. Escouloubre et Carcanière [Carcanières], séparés par la rivière de l'Aude / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925], tampon de la poste de 1907. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Verso : typographie encre verte. Voir aussi le tirage papier 26 Fi 11 TP 959. Autre édition postérieure : voir 1 Num 47 24.
+
+
+	Sujet
+	cours d'eau / fleuve / pont / thermoclimatisme / village / établissement thermal
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtaff680cdeef615538/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaff680cdeef615538%2Fcanvas%2F0%2F1
+	25 Escouloubre et Carcanière, séparés par la rivière de l'Aude - photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	
+	https://archives.haute-garonne.fr/ark:/44805/vta354e015899ee43de/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta354e015899ee43de%2Fcanvas%2F0%2F1
+	25 Escouloubre et Carcanière, séparés par la rivière de l'Aude - photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto2.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaff680cdeef615538/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaff680cdeef615538%2Fcanvas%2F0%2F2
+	25 Escouloubre et Carcanière, séparés par la rivière de l'Aude - photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+
+Vallée de l'Aude. 337. Route de Carcanières : usine de l'Aguzou et la grande chute. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre
+
+	Cote
+	26 FI 11 TP 1364
+
+	Intitulé
+	Vallée de l'Aude. 337. Route de Carcanières : usine de l'Aguzou et la grande chute. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	La chute de l'Aguzou est située sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+
+	Sujet
+	bâtiment industriel / cascade / cours d'eau / production électrique / usine
+
+	Lieu
+	Escouloubre (Aude, France) / Aude (France ; département)
+	https://archives.haute-garonne.fr/ark:/44805/vtaefefa76c262dbfa3/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaefefa76c262dbfa3%2Fcanvas%2F0%2F1
+	337 Route de Carcanières - usine de l'Aguzou et la grande chute - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaefefa76c262dbfa3/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaefefa76c262dbfa3%2Fcanvas%2F0%2F2
+	337 Route de Carcanières - usine de l'Aguzou et la grande chute - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+Vallée de l'Aude. 335. Route de Carcanières et chute supérieure de l'Aguzou. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre
+
+	Cote
+	26 FI 11 TP 1362
+
+	Intitulé
+	Vallée de l'Aude. 335. Route de Carcanières et chute supérieure de l'Aguzou. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	La chute de l'Aguzou est située sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+	Sujet
+	cascade / cours d'eau / homme / réseau routier
+
+	Lieu
+	Escouloubre (Aude, France) / Aude (France ; département)	
+	https://archives.haute-garonne.fr/ark:/44805/vta4dc4c72782bfa146/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4dc4c72782bfa146%2Fcanvas%2F0%2F1
+	335 Route de Carcanières et chute supérieure de l'Aguzou - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta4dc4c72782bfa146/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4dc4c72782bfa146%2Fcanvas%2F0%2F2
+	335 Route de Carcanières et chute supérieure de l'Aguzou - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+Vallée de l'Aude. 336. Route de Carcanières : 2e cascade de l'Aguzou. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre
+
+	Cote
+	26 FI 11 TP 1363
+
+	Intitulé
+	Vallée de l'Aude. 336. Route de Carcanières : 2e cascade de l'Aguzou. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	La chute de l'Aguzou est située sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+	Sujet
+	cascade / cours d'eau / homme / réseau routier / scène animée
+
+	Lieu
+	Escouloubre (Aude, France) / Aude (France ; département)
+	https://archives.haute-garonne.fr/ark:/44805/vtaa66388ea9650129a/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaa66388ea9650129a%2Fcanvas%2F0%2F1
+	336 Route de Carcanières 2e cascade de l'Aguzou - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaa66388ea9650129a/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaa66388ea9650129a%2Fcanvas%2F0%2F2
+	336 Route de Carcanières 2e cascade de l'Aguzou - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+Vallée de l'Aude. 25 bis. Carcanières : les passerelles des établissements. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1197
+
+	Intitulé
+	Vallée de l'Aude. 25 bis. Carcanières : les passerelles des établissements. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	Carcanières est situé sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+
+	Sujet
+	homme / pont / réseau routier / thermoclimatisme / établissement thermal
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)	
+	https://archives.haute-garonne.fr/ark:/44805/vta37847eb2619c261d/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta37847eb2619c261d%2Fcanvas%2F0%2F1
+	25 bis Carcanières les passerelles des établissements - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta37847eb2619c261d/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta37847eb2619c261d%2Fcanvas%2F0%2F2
+	25 bis Carcanières les passerelles des établissements - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+Vallée de l'Aude. 222 bis. Carcanières : établissement Bonnail. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1297
+
+	Intitulé
+	Vallée de l'Aude. 222 bis. Carcanières : établissement Bonnail. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Carcanières est situé sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+	Sujet
+	femme / homme / thermoclimatisme / établissement thermal / scène animée
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta286ebccbfbd093a9/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta286ebccbfbd093a9%2Fcanvas%2F0%2F1
+	222 bis Carcanières établissement Bonnail - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta286ebccbfbd093a9/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta286ebccbfbd093a9%2Fcanvas%2F0%2F2
+	222 bis Carcanières établissement Bonnail - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+Vallée de l'Aude. 340. Carcanières : passerelle Roquelaure. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1367
+
+	Intitulé
+	Vallée de l'Aude. 340. Carcanières : passerelle Roquelaure. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Carcanières est situé sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+
+	Sujet
+	cours d'eau / fleuve / pont / village
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)	
+	https://archives.haute-garonne.fr/ark:/44805/vta4abf29edf05996a9/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4abf29edf05996a9%2Fcanvas%2F0%2F1
+	340 Carcanières - passerelle Roquelaure - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta4abf29edf05996a9/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4abf29edf05996a9%2Fcanvas%2F0%2F2
+	340 Carcanières - passerelle Roquelaure - maison Labouche frères, entre 1900 et 1940-verso.png
+
+Vallée de l'Aude. 335. Route de Carcanières et chute supérieure de l'Aguzou. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale (1909/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Sites naturels > Aguzou, cascade de l'
+
+	Cote
+	1 NUM 47 417
+
+	Intitulé
+	Vallée de l'Aude. 335. Route de Carcanières et chute supérieure de l'Aguzou. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale
+
+	Importance matérielle
+	Impression photomécanique (carte postale) : noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1362.
+
+	Sujet
+	cascade / cours d'eau / homme / réseau routier
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Escouloubre (Aude, France) / Aude (France ; département)	
+	https://archives.haute-garonne.fr/ark:/44805/vtab8060eb595411875/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtab8060eb595411875%2Fcanvas%2F0%2F1
+	335 Route de Carcanières et chute supérieure de l'Aguzou - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtab8060eb595411875/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtab8060eb595411875%2Fcanvas%2F0%2F2
+	335 Route de Carcanières et chute supérieure de l'Aguzou - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-verso.png
+		
+Aude. Carcanières : établissement thermal de Roquelaure / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1543
+
+	Intitulé
+	Aude. Carcanières : établissement thermal de Roquelaure / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9,5 x 15 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Carcanières est situé sur la commune d'Escouloubre. Verso : légende manuscrite avec annotation "Cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse".
+
+	Modalités d'entrée
+	Achat
+
+	Date d'entrée
+	12/2010
+
+	Sujet
+	vue générale / établissement thermal / thermoclimatisme / pont / fleuve / cours d'eau / massif
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France) / Aude (France ; cours d'eau)
+	https://archives.haute-garonne.fr/ark:/44805/vta85537ecb238acce3/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta85537ecb238acce3%2Fcanvas%2F0%2F1		
+	Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta85537ecb238acce3/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta85537ecb238acce3%2Fcanvas%2F0%2F2		
+	Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910-verso.png
+	
+Vallée de l'Aude. 25. Carcanières / [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925, réédition]. - Carte postale (1909/1925)
+	Image 1 sur 1
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 174
+
+	Intitulé
+	Vallée de l'Aude. 25. Carcanières / [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925, réédition]. - Carte postale
+
+	Importance matérielle
+	Impression photomécanique (carte postale) : noir et blanc ; 14 x 9 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Les bains de Carcanières sont situés sur la commune d'Escouloubre. Etat de conservation : cassure. Autre édition antérieure (avec mention du photographe) : voir 26 Fi 11 192.
+
+	Sujet
+	cascade / cours d'eau / pont / rivière
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Gorges de l' (France) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta780655a05464995a/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta780655a05464995a%2Fcanvas%2F0%2F1
+	25 Carcanières - photographie Amédée Trantoul (1837-1910) - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925, réédition-recto.png
+
+Vallée de l'Aude. 339. Route de Carcanières. Barrage de Campagnac. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale (1909/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 47
+
+	Intitulé
+	Vallée de l'Aude. 339. Route de Carcanières. Barrage de Campagnac. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Sujet
+	digue
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtaa37a3e476c847997/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaa37a3e476c847997%2Fcanvas%2F0%2F1
+	339 Route de Carcanières Barrage de Campagnac - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaa37a3e476c847997/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaa37a3e476c847997%2Fcanvas%2F0%2F2
+	339 Route de Carcanières Barrage de Campagnac - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-verso.png
+
+Vallée de l'Aude. 343. Carcanières : établissement Esparre. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1369
+
+	Intitulé
+	Vallée de l'Aude. 343. Carcanières : établissement Esparre. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Verso : légende manuscrite.
+
+	Sujet
+	homme / thermoclimatisme / village / voie communale / établissement thermal
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta96fb45938cf9fa96/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta96fb45938cf9fa96%2Fcanvas%2F0%2F1
+	343 Carcanières - établissement Esparre - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta96fb45938cf9fa96/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta96fb45938cf9fa96%2Fcanvas%2F0%2F2
+	343 Carcanières - établissement Esparre - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+La vallée de l'Aude. 339. La haute vallée en amont de Carcanières : route du Capcir ou de Mont-Louis. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale (1911/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 89
+
+	Intitulé
+	La vallée de l'Aude. 339. La haute vallée en amont de Carcanières : route du Capcir ou de Mont-Louis. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Sujet
+	vallée / réseau routier / paysage / massif
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)	
+	https://archives.haute-garonne.fr/ark:/44805/vtabe0641972697d64c/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtabe0641972697d64c%2Fcanvas%2F0%2F1
+	339 La haute vallée en amont de Carcanières - route du Capcir ou de Mont-Louis - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtabe0641972697d64c/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtabe0641972697d64c%2Fcanvas%2F0%2F2
+	339 La haute vallée en amont de Carcanières - route du Capcir ou de Mont-Louis - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-verso.png
+
+Aude. Carcanières : établissements thermaux / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1541
+
+	Intitulé
+	Aude. Carcanières : établissements thermaux / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9,5 x 15 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Carcanières est situé sur la commune d'Escouloubre. Verso : légende manuscrite avec annotation "Cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse". Autre support : négatif nitrate, 26 Fi 11 NEG 1541 (renforcement des nuages par des touches de peinture).
+
+	Modalités d'entrée
+	Achat
+
+	Date d'entrée
+	12/2010
+
+	Sujet
+	village / établissement thermal / thermoclimatisme / rocher / site
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtaf2baff32c2a5ccb7/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaf2baff32c2a5ccb7%2Fcanvas%2F0%2F1
+	Carcanières - établissements thermaux - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaf2baff32c2a5ccb7/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaf2baff32c2a5ccb7%2Fcanvas%2F0%2F2
+	Carcanières - établissements thermaux - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910-verso.png
+
+25. Gorges de l'Aude : Carcanières / cliché A. T. [photographie Amédée Trantoul (1837-1910)]. - Toulouse : Labouche frères, imprimeur-éditeur, [entre 1900 et 1904]. - Carte postale. - (Sites et monuments du Sud-Ouest - 4e série) (1900/1904)
+	Image 1 sur 1
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 192
+
+	Intitulé
+	25. Gorges de l'Aude : Carcanières / cliché A. T. [photographie Amédée Trantoul (1837-1910)]. - Toulouse : Labouche frères, imprimeur-éditeur, [entre 1900 et 1904]. - Carte postale. - (Sites et monuments du Sud-Ouest - 4e série)
+
+	Importance matérielle
+	Impression photomécanique (carte postale) : noir et blanc ; 14 x 9 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Carcanières est situé dans le département de l'Ariège, mais le col ou les bains de Carcanières sont situés sur la commune d'Escouloubre dans le département de l'Aude. Autre édition postérieure : voir 26 Fi 11 174.
+
+	Sujet
+	cascade / cours d'eau / pont / rivière
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Gorges de l' (France) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtaf9b8b65e1908fa0d/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaf9b8b65e1908fa0d%2Fcanvas%2F0%2F1
+	25 Carcanières - photographie Amédée Trantoul (1837-1910) - Labouche frères, imprimeur-éditeur, entre 1900 et 1904-recto.png
+
+Vallée de l'Aude. 336. Route de Carcanières : deuxième cascade de l'Aguzou. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale (1909/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Sites naturels > Aguzou, cascade de l'
+
+	Cote
+	1 NUM 47 418
+
+	Intitulé
+	Vallée de l'Aude. 336. Route de Carcanières : deuxième cascade de l'Aguzou. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale
+
+	Importance matérielle
+	Impression photomécanique (carte postale) : noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1363.
+
+	Sujet
+	cascade / cours d'eau / homme / réseau routier / scène animée
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Escouloubre (Aude, France) / Aude (France ; département)
+	https://archives.haute-garonne.fr/ark:/44805/vta59bca18cbc6b2fa1/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta59bca18cbc6b2fa1%2Fcanvas%2F0%2F1
+	336 Route de Carcanières - deuxième cascade de l'Aguzou - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta59bca18cbc6b2fa1/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta59bca18cbc6b2fa1%2Fcanvas%2F0%2F2
+	336 Route de Carcanières - deuxième cascade de l'Aguzou - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-verso.png
+
+Vallée de l'Aude. 342. Carcanières : grand café Bonnail, route de Mont-Louis. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale (1909/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 65
+
+	Intitulé
+	Vallée de l'Aude. 342. Carcanières : grand café Bonnail, route de Mont-Louis. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Sujet
+	réseau routier / village / débit de boissons / commerce alimentaire / commerce / fonds de commerce / homme / femme / scène animée
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)	
+	https://archives.haute-garonne.fr/ark:/44805/vta77fbae5fbc90d739/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta77fbae5fbc90d739%2Fcanvas%2F0%2F1
+	342 Carcanières - grand café Bonnail, route de Mont-Louis - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta77fbae5fbc90d739/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta77fbae5fbc90d739%2Fcanvas%2F0%2F2
+	342 Carcanières - grand café Bonnail, route de Mont-Louis - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-verso.png
+
+Gorges de l'Aude. Défilé Saint-Georges. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue > N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Cote
+	1 NUM 47 272 005
+
+	Intitulé
+	Gorges de l'Aude. Défilé Saint-Georges. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 8 x 5,5 cm
+
+	Sujet
+	gorge / paysage / réseau routier / site / vallée / rocher / association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Saint-Georges, Gorges de (Aude, France) / Axat (Aude, France) / Aude (France ; département) / Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+	http://archives.haute-garonne.fr/ark:/44805/vta954a359a7b892d71/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta954a359a7b892d71%2Fcanvas%2F0%2F1
+	Défilé Saint-Georges - 11-14 juillet 1897 - Photographie 1897.png
+	
+Vallée de l'Aude. 226. Route de Carcanière [Carcanières] : maison cantonnière de Capelier / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 42
+
+	Intitulé
+	Vallée de l'Aude. 226. Route de Carcanière [Carcanières] : maison cantonnière de Capelier / [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1300.
+
+	Sujet
+	maison / réseau routier
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta367edd1ae7c430bc/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta367edd1ae7c430bc%2Fcanvas%2F0%2F1
+	226 Route de Carcanière - maison cantonnière de Capelier - photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta367edd1ae7c430bc/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta367edd1ae7c430bc%2Fcanvas%2F0%2F2
+	226 Route de Carcanière - maison cantonnière de Capelier - photographie Henri Jansou (1874-1966) - Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+
+Vallée de l'Aude. 343. Carcanières : établissement Esparre. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale (1909/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 66
+
+	Intitulé
+	Vallée de l'Aude. 343. Carcanières : établissement Esparre. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1909 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Sujet
+	voie communale / village / établissement thermal / thermoclimatisme / homme / scène animée
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta01ea91784465da04/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta01ea91784465da04%2Fcanvas%2F0%2F1
+	343 Carcanières - établissement Esparre - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta01ea91784465da04/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta01ea91784465da04%2Fcanvas%2F0%2F2
+	343 Carcanières - établissement Esparre - phototypie Labouche frères, marque LF au verso, entre 1909 et 1925-verso.png
+	
+Aude. Vallée de Gesse. Exploitation forestière : attelage trainant un sapin / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Sites naturels > Forêts > Gesse, forêt domaniale de
+
+	Cote
+	26 FI 11 TP 1164
+
+	Intitulé
+	Aude. Vallée de Gesse. Exploitation forestière : attelage trainant un sapin / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9,5 x 15 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	La forêt domaniale de Gesse est située sur la commune d'Escouloubre. Verso : légende manuscrite, avec annotation "cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse".
+
+	Sujet
+	attelage / exploitation forestière / scène animée / sylviculture / transport par animal / équidé
+
+	Lieu
+	Aude (France ; département) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Bessède-de-Sault (Aude, France) / Escouloubre (Aude, France) / Gesse (Bessède-de-Sault, Aude, France ; lieu-dit) / Gesse, Forêt domaniale de (Aude, France) / Gesse, Vallée de (Aude, France) / Sault, Pays de (Aude, France ; région naturelle)	
+	https://archives.haute-garonne.fr/ark:/44805/vtabd39d6c669449079/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtabd39d6c669449079%2Fcanvas%2F0%2F1
+	Vallée de Gesse Exploitation forestière - attelage trainant un sapin - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtabd39d6c669449079/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtabd39d6c669449079%2Fcanvas%2F0%2F2
+	Vallée de Gesse Exploitation forestière - attelage trainant un sapin - photographie Amédée Trantoul (1837-1910) - maison Labouche frères, entre 1900 et 1910-verso.png
+
+Haute vallée de l'Aude. 175. Usine électrique et forêt de Gesse. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes en B > Bessède-de-Sault > Gesse
+
+	Cote
+	26 FI 11 TP 1258
+
+	Intitulé
+	Haute vallée de l'Aude. 175. Usine électrique et forêt de Gesse. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 16,5 x 12 cm
+
+	Présentation du contenu
+	La centrale électrique de Gesse est située sur la commune de Bessède-de-Sault. La forêt domaniale de Gesse est située sur la commune d'Escouloubre. Vue des tuyaux de descente. Verso : légende dactylographiée. Etat de conservation : légère coloration, pliure.
+
+	Sujet
+	forêt / production électrique / usine
+
+	Lieu
+	Aude (France ; département) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Bessède-de-Sault (Aude, France) / Escouloubre (Aude, France) / Gesse (Bessède-de-Sault, Aude, France ; lieu-dit) / Gesse, Forêt domaniale de (Aude, France) / Gesse, Vallée de (Aude, France) / Sault, Pays de (Aude, France ; région naturelle)
+	https://archives.haute-garonne.fr/ark:/44805/vtaf92edf4e1ebb155a/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaf92edf4e1ebb155a%2Fcanvas%2F0%2F1
+	175 Usine électrique et forêt de Gesse - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtaf92edf4e1ebb155a/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaf92edf4e1ebb155a%2Fcanvas%2F0%2F2
+	175 Usine électrique et forêt de Gesse - maison Labouche frères, entre 1900 et 1940-verso.png
+	
+24. Gorges de l'Aude : château d'Usson / cliché A. T. [photographie Amédée Trantoul (1837 - 1910)]. - Toulouse : Labouche frères, imprimeur-éditeur, [entre 1900 et 1904]. - Carte postale. - (Sites et monuments du Sud-Ouest - 4e série) (1900/1904)
+	Image 1 sur 1
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Usson
+
+	Cote
+	26 FI 11 191
+
+	Intitulé
+	24. Gorges de l'Aude : château d'Usson / cliché A. T. [photographie Amédée Trantoul (1837 - 1910)]. - Toulouse : Labouche frères, imprimeur-éditeur, [entre 1900 et 1904]. - Carte postale. - (Sites et monuments du Sud-Ouest - 4e série)
+
+	Importance matérielle
+	Impression photomécanique (carte postale) : noir et blanc ; 14 x 9 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Usson est situé sur la commune d'Escouloubre.
+
+
+	Sujet
+	château fort / cours d'eau / fleuve / fortification / paysage / rocher / ruine / site
+
+	Lieu
+	Rouze (Ariège, France) / Rouze (Ariège, France) -- Château d'Usson / Ariège (France ; département)
+	https://archives.haute-garonne.fr/ark:/44805/vta29aa59add7430547/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta29aa59add7430547%2Fcanvas%2F0%2F1
+	24 Gorges de l'Aude - château d'Usson photographie Amédée Trantoul (1837 - 1910) - Labouche frères, imprimeur-éditeur, entre 1900 et 1904.png
+
+Gorges de l'Aude. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue > N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Cote
+	1 NUM 47 272 006
+
+	Intitulé
+	Gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 8 x 5,5 cm
+
+	Sujet
+	gorge / paysage / réseau routier / site / vallée / rocher / homme / cyclisme / bicyclette / association sportive / scène animée / fleuve / cours d'eau / tourisme / groupe de personnes / association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Aude (France ; cours d'eau) / Aude (France ; département) / Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+    https://archives.haute-garonne.fr/ark:/44805/vtaef613b84d4a9c627/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaef613b84d4a9c627%2Fcanvas%2F0%2F1
+	Gorges de l'Aude. - 11-14 juillet 1897 - Photographie (1897).png
+
+124. Carcanières : ensemble des établissements. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925], tampon de la poste de 1906. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 32
+
+	Intitulé
+	124. Carcanières : ensemble des établissements. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925], tampon de la poste de 1906. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Autres éditions : voir 1 Num 47 79, 80.
+
+	Sujet
+	village / établissement thermal / thermoclimatisme / pont / fleuve / cours d'eau
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtade3e3a0ad43850cc/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtade3e3a0ad43850cc%2Fcanvas%2F0%2F1
+	124 Carcanières - ensemble des établissements - phototypie Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtade3e3a0ad43850cc/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtade3e3a0ad43850cc%2Fcanvas%2F0%2F2
+	124 Carcanières - ensemble des établissements - phototypie Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+
+Vallée de l'Aude. 341. Carcanières : source Bonnail. - Toulouse : maison Labouche frères, [entre 1900 et 1920]. - Photographie (1900/1920)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1368
+
+	Intitulé
+	Vallée de l'Aude. 341. Carcanières : source Bonnail. - Toulouse : maison Labouche frères, [entre 1900 et 1920]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	Verso : légende manuscrite.
+
+
+	Sujet
+	curiste / femme / homme / portrait / source / thermoclimatisme / scène animée / groupe de personnes
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtad05f53a9a877e142/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtad05f53a9a877e142%2Fcanvas%2F0%2F1
+	341 Carcanières - source Bonnail - maison Labouche frères, entre 1900 et 1920-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtad05f53a9a877e142/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtad05f53a9a877e142%2Fcanvas%2F0%2F2
+	341 Carcanières - source Bonnail - maison Labouche frères, entre 1900 et 1920-verso.png
+
+Vallée de l'Aude. 25 bis. Carcanières : les passerelles des établissements. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale (1911/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 83
+
+	Intitulé
+	Vallée de l'Aude. 25 bis. Carcanières : les passerelles des établissements. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 14 x 9 cm
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1197.
+
+	Sujet
+	homme / pont / réseau routier / thermoclimatisme / établissement thermal / scène animée
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtabdb2203a720fe603/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtabdb2203a720fe603%2Fcanvas%2F0%2F1
+	25 bis Carcanières - les passerelles des établissements - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtabdb2203a720fe603/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtabdb2203a720fe603%2Fcanvas%2F0%2F2
+	25 bis Carcanières - les passerelles des établissements - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-verso.png
+
+Vue de Carcanières. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue > N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Cote
+	1 NUM 47 272 001
+
+	Intitulé
+	Vue de Carcanières. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 5,5 x 8 cm
+
+	Sujet
+	gorge / vallée / fleuve / cours d'eau / pont / village / réseau routier / association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France) / Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtaccd881e923244331/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtaccd881e923244331%2Fcanvas%2F0%2F1
+	Vue de Carcanières - 11-14 juillet 1897. - Photographie (1897).png
+
+La vallée de l'Aude. 340. Carcanières : passerelle Roquelaure. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale (1911/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 92
+
+	Intitulé
+	La vallée de l'Aude. 340. Carcanières : passerelle Roquelaure. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1367.
+
+	Sujet
+	pont / fleuve / cours d'eau / établissement thermal / thermoclimatisme / village
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta83c268d0083e1351/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta83c268d0083e1351%2Fcanvas%2F0%2F1
+	340 Carcanières - passerelle Roquelaure - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta83c268d0083e1351/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta83c268d0083e1351%2Fcanvas%2F0%2F2
+	340 Carcanières - passerelle Roquelaure - phototypie Labouche frères, marque LF au verso, entre 1911 et 1925-verso.png
+
+Ruines du château d'Usson. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue > N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Cote
+	1 NUM 47 272 002
+
+	Intitulé
+	Ruines du château d'Usson. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 5,5 x 8 cm
+
+	Sujet
+	château fort / fortification / paysage / rocher / ruine / site / association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Rouze (Ariège, France) / Rouze (Ariège, France) -- Château d'Usson / Ariège (France ; département) / Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta25b3f049ced29a7c/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta25b3f049ced29a7c%2Fcanvas%2F0%2F1
+	Ruines du château d'Usson - 11-14 juillet 1897 - Photographie (1897).png
+
+La vallée de l'Aude. 124. Carcanières : les établissements / [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 84
+
+	Intitulé
+	La vallée de l'Aude. 124. Carcanières : les établissements / [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1541. Autre édition antérieure : voir 1 Num 47 31.
+
+	Sujet
+	village / établissement thermal / thermoclimatisme / rocher / site / pont
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta4062e6cb56bb268f/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4062e6cb56bb268f%2Fcanvas%2F0%2F1
+	124 Carcanières - les établissements photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	
+	https://archives.haute-garonne.fr/ark:/44805/vta6140d41a990dd996/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta6140d41a990dd996%2Fcanvas%2F0%2F1
+	124 Carcanières - les établissements photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto2.png
+	https://archives.haute-garonne.fr/ark:/44805/vta9afb249e5d7b7415/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta9afb249e5d7b7415%2Fcanvas%2F0%2F1
+	124 Carcanières - les établissements photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto3.png
+	https://archives.haute-garonne.fr/ark:/44805/vta4062e6cb56bb268f/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4062e6cb56bb268f%2Fcanvas%2F0%2F1
+	124 Carcanières - les établissements photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso, entre 1905 et 1925-recto4.png
+
+	https://archives.haute-garonne.fr/ark:/44805/vta4062e6cb56bb268f/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta4062e6cb56bb268f%2Fcanvas%2F0%2F2
+	124 Carcanières - les établissements photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+
+Vallée de l'Aude. 226. Route de Carcanière [Carcanières] : maison cantonnière de Capelier / photographie Henri Jansou (1874-1966). - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1300
+
+	Intitulé
+	Vallée de l'Aude. 226. Route de Carcanière [Carcanières] : maison cantonnière de Capelier / photographie Henri Jansou (1874-1966). - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Verso : légende manuscrite ; "du Castillou" barré et remplacé par "de Capelier" ; tampon "H. Jansou, photographe, Maison Labouche frères, Toulouse".
+
+	Sujet
+	maison / réseau routier
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vtafde5558f8668a0da/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtafde5558f8668a0da%2Fcanvas%2F0%2F1
+	226 Route de Carcanière maison cantonnière de Capelier - photographie Henri Jansou (1874-1966) - maison Labouche frères, entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtafde5558f8668a0da/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtafde5558f8668a0da%2Fcanvas%2F0%2F2
+	226 Route de Carcanière maison cantonnière de Capelier - photographie Henri Jansou (1874-1966) - maison Labouche frères, entre 1900 et 1940-verso.png
+
+Ruines du château d'Usson. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue > N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Cote
+	1 NUM 47 272 003
+
+	Intitulé
+	Ruines du château d'Usson. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 8 x 5,5 cm
+
+	Sujet
+	château fort / fortification / paysage / rocher / ruine / site / fleuve / cours d'eau / association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Rouze (Ariège, France) / Rouze (Ariège, France) -- Château d'Usson / Ariège (France ; département) / Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta9878492450121481/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta9878492450121481%2Fcanvas%2F0%2F1
+	Ruines du château d'Usson - 11-14 juillet 1897 - Photographie (1897)-2.png
+
+Gorges de l'Aude. Défilé de Pierre-Lys. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue > N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Cote
+	1 NUM 47 272 004
+
+	Intitulé
+	Gorges de l'Aude. Défilé de Pierre-Lys. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 8 x 5,5 cm
+
+	Sujet
+	gorge / paysage / réseau routier / site / tunnel / vallée / rocher / association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Aude (France ; département) / Pierre-Lys, Gorges de la (Aude, France) / Saint-Martin-Lys (Aude, France) / Aude (France ; cours d'eau) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta3b45dfdf0f2c1334/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta3b45dfdf0f2c1334%2Fcanvas%2F0%2F1
+	Gorges de l'Aude - Défilé de Pierre-Lys - 11-14 juillet 1897 - Photographie (1897).png
+
+Vallée de l'Aude. 125. Carcanières : établissement thermal de Roquelaure / [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 34
+
+	Intitulé
+	Vallée de l'Aude. 125. Carcanières : établissement thermal de Roquelaure / [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1543. Autres éditions : voir 1 Num 47 33 (édition antérieure), 1 Num 47 70 (édition postérieure).
+
+
+	Sujet
+	vue générale / établissement thermal / thermoclimatisme / pont / fleuve / cours d'eau / massif
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta2b48b144e3ee727a/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta2b48b144e3ee727a%2Fcanvas%2F0%2F1
+	125 Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910)] - Labouche frères, marque LF au verso, entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta2b48b144e3ee727a/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta2b48b144e3ee727a%2Fcanvas%2F0%2F2
+	125 Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910)] - Labouche frères, marque LF au verso, entre 1905 et 1925-verso.png
+	
+La vallée de l'Aude. 224. Carcanières : l'établissement Roquelaure et la route de Mont-Louis. - Toulouse : maison Labouche frères, [entre 1900 et 1920]. - Photographie (1900/1920)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 75
+
+	Intitulé
+	La vallée de l'Aude. 224. Carcanières : l'établissement Roquelaure et la route de Mont-Louis. - Toulouse : maison Labouche frères, [entre 1900 et 1920]. - Photographie
+
+	Importance matérielle
+	Photographie numérique : papier, noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Voir aussi la carte postale 1 Num 47 76.
+
+	Sujet
+	réseau routier / village / hôtel de tourisme / équipement touristique / établissement thermal / thermoclimatisme / curiste / homme / terrasse / loisir / scène animée / débit de boissons
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta54c7c33441c3fdba/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta54c7c33441c3fdba%2Fcanvas%2F0%2F1
+	224 Carcanières - l'établissement Roquelaure et la route de Mont-Louis - maison Labouche frères entre 1900 et 1920-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta54c7c33441c3fdba/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta54c7c33441c3fdba%2Fcanvas%2F0%2F2
+	224 Carcanières - l'établissement Roquelaure et la route de Mont-Louis - maison Labouche frères entre 1900 et 1920-verso.png
+
+La vallée de l'Aude. 224. Carcanières : l'établissement Roquelaure et la route de Mont-Louis. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale (1911/1925)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 76
+
+	Intitulé
+	La vallée de l'Aude. 224. Carcanières : l'établissement Roquelaure et la route de Mont-Louis. - Toulouse : phototypie Labouche frères, marque LF au verso, [entre 1911 et 1925]. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Voir aussi le tirage papier 1 Num 47 75.
+
+	Sujet
+	réseau routier / village / hôtel de tourisme / équipement touristique / établissement thermal / thermoclimatisme / curiste / homme / terrasse / loisir / scène animée / débit de boissons
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta1d1eac9825478081/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta1d1eac9825478081%2Fcanvas%2F0%2F1
+	224 Carcanières - l'établissement Roquelaure et la route de Mont-Louis - phototypie Labouche frères, marque LF au verso entre 1911 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta1d1eac9825478081/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta1d1eac9825478081%2Fcanvas%2F0%2F2
+	224 Carcanières - l'établissement Roquelaure et la route de Mont-Louis - phototypie Labouche frères, marque LF au verso entre 1911 et 1925-verso.png
+	
+Vallée de l'Aude. 125. Carcanières : établissement thermal de Roquelaure / cliché A. Trantoul [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [1904], tampon de la poste de 1904. - Carte postale (1904/1904)
+	Image 1 sur 2
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Aude > Escouloubre > Carcanières
+
+	Cote
+	1 NUM 47 33
+
+	Intitulé
+	Vallée de l'Aude. 125. Carcanières : établissement thermal de Roquelaure / cliché A. Trantoul [photographie Amédée Trantoul (1837-1910)]. - Toulouse : phototypie Labouche frères, marque LF au verso, [1904], tampon de la poste de 1904. - Carte postale
+
+	Importance matérielle
+	Photographie numérique : noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Voir aussi le tirage papier 26 Fi 11 TP 1543. Autres éditions postérieures : voir 1 Num 47 34, 70.
+
+	Sujet
+	vue générale / établissement thermal / thermoclimatisme / pont / fleuve / cours d'eau / massif
+
+	Personne
+	Tortue (La) (association)
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude (France ; département) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Escouloubre (Aude, France)
+
+	https://archives.haute-garonne.fr/ark:/44805/vta8e5d674a147afd09/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta8e5d674a147afd09%2Fcanvas%2F0%2F1
+	125 Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso 1904 tampon de la poste de 1904-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtab5c37676deb8f67b/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtab5c37676deb8f67b%2Fcanvas%2F0%2F1125 Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso 1904 tampon de la poste de 1904-recto2.png
+	https://archives.haute-garonne.fr/ark:/44805/vta8e5d674a147afd09/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta8e5d674a147afd09%2Fcanvas%2F0%2F2
+	125 Carcanières - établissement thermal de Roquelaure - photographie Amédée Trantoul (1837-1910) - Labouche frères, marque LF au verso 1904 tampon de la poste de 1904-verso.png
+
+81. Usson : la vallée en aval de l'établissement / photographie Henri Jansou (1874-1966). - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Usson
+
+	Cote
+	26 FI 11 TP 962
+
+	Intitulé
+	81. Usson : la vallée en aval de l'établissement / photographie Henri Jansou (1874-1966). - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Usson est situé sur la commune d'Escouloubre. Verso : légende manuscrite ; tampon "H. Jansou, photographe, Maison Labouche frères, Toulouse".
+
+	Sujet
+	massif / paysage / vallée
+
+	Lieu
+	Usson (Rouze, Ariège, France ; lieu-dit) / Usson-les-Bains (Rouze, Ariège, France ; lieu-dit) / Usson (Rouze, Ariège, France ; lieu-dit) / Rouze (Ariège, France) / Ariège (France ; département) / Aude (France ; cours d'eau) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France)
+	https://archives.haute-garonne.fr/ark:/44805/vta27b04a7ad312f54e/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta27b04a7ad312f54e%2Fcanvas%2F0%2F1
+	81 Usson - la vallée en aval de l'établissement - photographie Henri Jansou (1874-1966) - maison Labouche frères entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta27b04a7ad312f54e/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta27b04a7ad312f54e%2Fcanvas%2F0%2F2
+	81 Usson - la vallée en aval de l'établissement - photographie Henri Jansou (1874-1966) - maison Labouche frères entre 1900 et 1940-verso.png
+
+La vallée de l'Aude. 161. Usson : les établissements : arrivée de l'autobus. - Toulouse : maison Labouche frères, [entre 1910 et 1930]. - Photographie (1910/1930)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Usson
+
+	Cote
+	26 FI 11 TP 1254
+
+	Intitulé
+	La vallée de l'Aude. 161. Usson : les établissements : arrivée de l'autobus. - Toulouse : maison Labouche frères, [entre 1910 et 1930]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	Usson est situé sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+	Sources complémentaires (même producteur)
+	3 Fi ENB 7339
+
+	Sujet
+	autobus / autocar / curiste / femme / homme / thermoclimatisme / transport / village / voie communale / établissement thermal / scène animée / groupe de personnes
+
+	Lieu
+	Usson (Rouze, Ariège, France ; lieu-dit) / Usson-les-Bains (Rouze, Ariège, France ; lieu-dit) / Usson (Rouze, Ariège, France ; lieu-dit) / Rouze (Ariège, France) / Ariège (France ; département) / Aude (France ; cours d'eau) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France)
+	https://archives.haute-garonne.fr/ark:/44805/vta92e3bc0e58845324/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta92e3bc0e58845324%2Fcanvas%2F0%2F1
+	161 Usson - les établissements - arrivée de l'autobus - maison Labouche frères entre 1910 et 1930-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta92e3bc0e58845324/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta92e3bc0e58845324%2Fcanvas%2F0%2F2
+	161 Usson - les établissements - arrivée de l'autobus - maison Labouche frères entre 1910 et 1930-verso.png
+
+Vallée de l'Aude. 338. Route de Carcanières et usine de l'Aguzou près Gesse. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre
+
+	Cote
+	26 FI 11 TP 1365
+
+	Intitulé
+	Vallée de l'Aude. 338. Route de Carcanières et usine de l'Aguzou près Gesse. - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Présentation du contenu
+	La chute de l'Aguzou est située sur la commune d'Escouloubre. Verso : légende manuscrite.
+
+	Sujet
+	cascade / cours d'eau / production électrique / rivière / réseau routier / usine
+
+	Lieu
+	Aude (France ; département) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Bessède-de-Sault (Aude, France) / Gesse (Bessède-de-Sault, Aude, France ; lieu-dit) / Gesse, Vallée de (Aude, France) / Sault, Pays de (Aude, France ; région naturelle)
+	https://archives.haute-garonne.fr/ark:/44805/vtad2738581cb3857a2/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtad2738581cb3857a2%2Fcanvas%2F0%2F1
+	338 Route de Carcanières et usine de l'Aguzou près Gesse - maison Labouche frères entre 1900 et 1940-recto.png	
+	https://archives.haute-garonne.fr/ark:/44805/vtad2738581cb3857a2/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtad2738581cb3857a2%2Fcanvas%2F0%2F2
+	338 Route de Carcanières et usine de l'Aguzou près Gesse - maison Labouche frères entre 1900 et 1940-verso.png
+
+Vallée de l'Aude. 163. Usson-les-Bains : la buvette / cliché Jansou [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, [entre 1905 et 1925]. - Carte postale (1905/1925)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Usson
+
+	Cote
+	26 FI 11 206
+
+	Intitulé
+	Vallée de l'Aude. 163. Usson-les-Bains : la buvette / cliché Jansou [photographie Henri Jansou (1874-1966)]. - Toulouse : phototypie Labouche frères, [entre 1905 et 1925]. - Carte postale
+
+	Importance matérielle
+	Impression photomécanique (carte postale) : noir et blanc ; 14 x 9 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	Usson est situé sur la commune d'Escouloubre. Portrait de groupe sur l'escalier. Vue de la donneuse d'eau.
+
+	Sujet
+	buvette / thermoclimatisme / curiste / homme / femme / enfant / employé de maison / scène animée / groupe de personnes / escalier
+
+	Lieu
+	Usson (Rouze, Ariège, France ; lieu-dit) / Usson-les-Bains (Rouze, Ariège, France ; lieu-dit) / Rouze (Ariège, France) / Aude (France ; cours d'eau) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Usson (Rouze, Ariège, France ; lieu-dit) / Ariège (France ; département)
+	https://archives.haute-garonne.fr/ark:/44805/vta8981d34d98c32af5/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta8981d34d98c32af5%2Fcanvas%2F0%2F1
+	163 Usson-les-Bains - la buvette - photographie Henri Jansou (1874-1966) - Labouche frères entre 1905 et 1925-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta8981d34d98c32af5/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta8981d34d98c32af5%2Fcanvas%2F0%2F2
+	163 Usson-les-Bains - la buvette - photographie Henri Jansou (1874-1966) - Labouche frères entre 1905 et 1925-verso.png
+
+Vallée de l'Aude. La vallée de Gesse. Route d'Espagne par Mont-Louis / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes en B > Bessède-de-Sault > Gesse
+
+	Cote
+	26 FI 11 TP 1437
+
+	Intitulé
+	Vallée de l'Aude. La vallée de Gesse. Route d'Espagne par Mont-Louis / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9,5 x 15 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Verso : légende manuscrite avec annotation "Cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse".
+
+
+	Sujet
+	massif / paysage / réseau routier / vallée
+
+	Lieu
+	Aude (France ; département) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Bessède-de-Sault (Aude, France) / Escouloubre (Aude, France) / Gesse (Bessède-de-Sault, Aude, France ; lieu-dit) / Gesse, Forêt domaniale de (Aude, France) / Gesse, Vallée de (Aude, France) / Sault, Pays de (Aude, France ; région naturelle)
+	https://archives.haute-garonne.fr/ark:/44805/vta0a6bde2f83a890ee/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta0a6bde2f83a890ee%2Fcanvas%2F0%2F1
+	La vallée de Gesse Route d'Espagne par Mont-Louis - photographie Amédée Trantoul (1837-1910) - maison Labouche frères entre 1900 et 1910-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta0a6bde2f83a890ee/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta0a6bde2f83a890ee%2Fcanvas%2F0%2F2
+	La vallée de Gesse Route d'Espagne par Mont-Louis - photographie Amédée Trantoul (1837-1910) - maison Labouche frères entre 1900 et 1910-verso.png
+	
+Aude. Carcanières-les-Bains : établissement Esparre / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes de E à F > Escouloubre > Carcanières
+
+	Cote
+	26 FI 11 TP 1542
+
+	Intitulé
+	Aude. Carcanières-les-Bains : établissement Esparre / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 15 x 9,5 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	Carcanières est situé sur la commune d'Escouloubre. Vue de la passerelle. Verso : légende manuscrite avec annotation "Cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse".
+
+	Modalités d'entrée
+	Achat
+
+	Date d'entrée
+	12/2010
+
+	Sujet
+	village / établissement thermal / thermoclimatisme / pont / fleuve / cours d'eau
+
+	Lieu
+	Ariège (France ; département) / Aude (France ; cours d'eau) / Aude, Vallée de l' (France) / Carcanières (Ariège, France) / Carcanières-les-Bains (Carcanières, Ariège, France ; lieu-dit) / Aude, Haute vallée de l' (France)
+	https://archives.haute-garonne.fr/ark:/44805/vta84d260c655244c05/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta84d260c655244c05%2Fcanvas%2F0%2F1
+	Carcanières-les-Bains - établissement Esparre - photographie Amédée Trantoul (1837-1910) - maison Labouche frères entre 1900 et 1910-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta84d260c655244c05/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta84d260c655244c05%2Fcanvas%2F0%2F2
+	Carcanières-les-Bains - établissement Esparre - photographie Amédée Trantoul (1837-1910) - maison Labouche frères entre 1900 et 1910-verso.png
+
+N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie (1897/1897)
+	Image 1 sur 1
+	Contexte
+	1 Num 47 : cartes postales Labouche et photographies de la collection de M. Pierre Olive > Thèmes > Excursions de la Tortue
+
+	Cote
+	211 J 25 / 1 NUM 47 272
+
+	Intitulé
+	N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 : Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 30 x 24 cm (support)
+
+	Présentation du contenu
+	Photographies prises lors d'une excursion organisée par la Tortue, société de tourisme vélocipédique, dont Lucien Labouche est secrétaire. 6 photographies positives, papier, noir et blanc, collées sur carton.
+
+	Historique de la conservation
+	D'abord prêtée (1 Num 47), la planche photographique a ensuite été donnée par M. Olive. Les images ont été numérisées sous la cote 1 Num 47 272.
+
+	Sujet
+	association de tourisme / association sportive / cyclisme / tourisme
+
+	Personne
+	Tortue (La) (association) / Tortue (La) (association)
+
+	Lieu
+	Aude (France ; département) / Aude (France ; cours d'eau) / Escouloubre (Aude, France)
+	https://archives.haute-garonne.fr/ark:/44805/vta225c25bb49561056/daoloc/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta225c25bb49561056%2Fcanvas%2F0%2F1
+	N° 6. Excursion de la Tortue des 11, 12, 13 et 14 Juillet 1897 - Carcanières et gorges de l'Aude. - 11-14 juillet 1897. - Photographie (1897)
+
+Vallée de l'Aude. 122. Gesse : le barrage pour l'usine électrique / photographie Henri Jansou (1874-1966). - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie (1900/1940)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes en B > Bessède-de-Sault > Gesse
+
+	Cote
+	26 FI 11 TP 1237
+
+	Intitulé
+	Vallée de l'Aude. 122. Gesse : le barrage pour l'usine électrique / photographie Henri Jansou (1874-1966). - Toulouse : maison Labouche frères, [entre 1900 et 1940]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9 x 14 cm
+
+	Auteur
+	Jansou, Henri (1874-1966 ; photographe français)
+
+	Présentation du contenu
+	La centrale électrique de Gesse est située sur la commune de Bessède-de-Sault. Verso : légende manuscrite ; tampon "H. Jansou, photographe, Maison Labouche frères, Toulouse".
+
+	Sujet
+	cours d'eau / digue / fleuve / production électrique / usine / vallée
+
+	Lieu
+	Aude (France ; département) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Bessède-de-Sault (Aude, France) / Escouloubre (Aude, France) / Gesse (Bessède-de-Sault, Aude, France ; lieu-dit) / Gesse, Forêt domaniale de (Aude, France) / Gesse, Vallée de (Aude, France) / Sault, Pays de (Aude, France ; région naturelle)
+	https://archives.haute-garonne.fr/ark:/44805/vtac3bd07c2c4eb308c/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtac3bd07c2c4eb308c%2Fcanvas%2F0%2F1
+	122 Gesse - le barrage pour l'usine électrique - photographie Henri Jansou (1874-1966) - maison Labouche frères entre 1900 et 1940-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vtac3bd07c2c4eb308c/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvtac3bd07c2c4eb308c%2Fcanvas%2F0%2F2
+	122 Gesse - le barrage pour l'usine électrique - photographie Henri Jansou (1874-1966) - maison Labouche frères entre 1900 et 1940-verso.png
+	
+Aude. Prise d'eau de l'usine électrique. Vallée de Gesse / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie (1900/1910)
+	Image 1 sur 2
+	Contexte
+	Aude (fonds photographique Labouche) > Communes > Communes en B > Bessède-de-Sault > Gesse
+
+	Cote
+	26 FI 11 TP 1546
+
+	Intitulé
+	Aude. Prise d'eau de l'usine électrique. Vallée de Gesse / photographie Amédée Trantoul (1837-1910). - Toulouse : maison Labouche frères, [entre 1900 et 1910]. - Photographie
+
+	Importance matérielle
+	Photographie positive : papier, noir et blanc ; 9,5 x 15 cm
+
+	Auteur
+	Trantoul, Amédée
+
+	Présentation du contenu
+	La centrale électrique de Gesse est située sur la commune de Bessède-de-Sault. Verso : légende manuscrite avec annotation "Cliché A. Trantoul" ; tampon "A. Trantoul, photographe, Maison Labouche frères, Toulouse".
+
+	Modalités d'entrée
+	Achat
+
+	Date d'entrée
+	12/2010
+
+	Sujet
+	cours d'eau / prise d'eau / production électrique / vallée / fleuve / cours d'eau / usine / production électrique / forêt
+
+	Lieu
+	Aude (France ; département) / Aude, Haute vallée de l' (France) / Aude, Vallée de l' (France) / Bessède-de-Sault (Aude, France) / Escouloubre (Aude, France) / Gesse (Bessède-de-Sault, Aude, France ; lieu-dit) / Gesse, Forêt domaniale de (Aude, France) / Gesse, Vallée de (Aude, France) / Sault, Pays de (Aude, France ; région naturelle)	
+	https://archives.haute-garonne.fr/ark:/44805/vta58bff5e675944f00/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta58bff5e675944f00%2Fcanvas%2F0%2F1
+	Prise d'eau de l'usine électrique - Vallée de Gesse - photographie Amédée Trantoul (1837-1910) - maison Labouche frères entre 1900 et 1910-recto.png
+	https://archives.haute-garonne.fr/ark:/44805/vta58bff5e675944f00/daogrp/0/1?id=https%3A%2F%2Farchives.haute-garonne.fr%2Fark%3A%2F44805%2Fvta58bff5e675944f00%2Fcanvas%2F0%2F2
+	Prise d'eau de l'usine électrique - Vallée de Gesse - photographie Amédée Trantoul (1837-1910) - maison Labouche frères entre 1900 et 1910-verso.png
+	
+Agriculture ; Direction des forêts (1907-1959)
+Haut de page
+
+Présentation générale
+Détail du contenu
+Champ de recherche plein-texte dans la notice
+Rechercher dans l'inventaire
+Tout plier Tout déplier
+
+
+Position dans l'inventaire :
+APPLICATION DE LA LEGISLATION : DOSSIERS PAR DEPARTEMENT, 1924-1959. (19870399/2-19870399/7 22 DF 2-22 DF 7)
+Cotes : 19870399/4, 22 DF 4
+Aude
+RéserverPlus d'actions
+Description
+Aude
+Rapports d'ensemble sur les forêts à classer dans le département de l'Aude et sur les indemnités éventuelles à payer, 1923-1926.
+
+Forêts particulières des Alliès (commune d'Artigues), de Madres (commune de Cailla), de la Serre du Clat (commune du Clat), des Bailleurs de Counozouls : dossier d'enquête, préparation du décret, décret du 28 novembre 1928, 1927-1928.
+Bois particuliers de Resclauze, de Crabiza et des Bailleurs (commune de Sainte-Colombe-sur-Guette), de Salvanère (comme de Montfort) de Gravas et de Montnaie (commune de Roquefort-de-Sault, du Bousquet et d'Escouloubre), de Faussivre et de Bois du Baquet (commune de Salvezines) : dossiers d'enquête par commune, préparation du décret de classement, décret du 25 décembre 1927, 1926-1929 ; correspondance relative à une demande d'autorisation de coupes dans la forêt particulière de Sainte-Colombe, 1936.
+
+Forêts particulières situées dans les communes d'Axat, Belvianes, Belvis, Bessède-de-Sault, Le Bousquet, Coudons, Nébias, Quirbajou, Puivert, Rivel, Roquefort-de-Sault, Saint-Louis et Parahou, Saint-Martin-du-Lys et Velias : dossier d'enquête, préparation du décret de classement, décret du 8 mai 1926, 1925-1926 ; correspondance relative à l'exploitation des coupes dans les forêts de Revel, Serre de Quirbajou et Serre Blazy, et aux forêts particulières de l'Aude, 1927.
+Correspondance relative aux forêts de protection de l'Aude, 1946-1952.	
+https://www.siv.archives-nationales.culture.gouv.fr/siv/rechercheconsultation/consultation/ir/consultationIR.action?irId=FRAN_IR_014301&udId=d_2_3&details=true	
+
+
+Archives Herault
+Comptes du diocèse d'Alet et de Limoux
+https://archives-pierresvives.herault.fr/archive/fonds/FRAD034_M_000605/view:207877
+Saint-Martin-d'Endalens
+
+
+
+https://francearchives.gouv.fr/fr/search?q=escouloubre&es_escategory=archives&es_escategory=siteres&page=18
 	
 	
 https://francearchives.gouv.fr/fr/location/363942093?es_escategory=archives&es_escategory=siteres
